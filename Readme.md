@@ -1,4 +1,4 @@
-# Web App for AirMonitor
+# AirMonitorWebApp
 Web app created to collect data from AirMonitor to MySQL database.
 
 ### installation into venv (recommended):
